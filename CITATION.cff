@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: DIVIAC
+message: >-
+  If you want to cite this library, please use the metadata from this file.
+type: software
+authors:
+  - given-names: Chandan Kumar
+    family-names: Jha
+    email: chajha@uni-bremen.de
+    affiliation: University of Bremen
+    orcid: 'https://orcid.org/0000-0001-9490-4470'
+  - given-names: Sajjad
+    family-names: Parvin
+    email: parvin@uni-bremen.de
+    affiliation: University of Bremen
+    orcid: 'https://orcid.org/0000-0002-3069-8791'
+  - given-names: Sallar
+    family-names: Ahmadi-Pour
+    email: sallar@uni-bremen.de
+    affiliation: University of Bremen
+    orcid: 'https://orcid.org/0000-0003-4000-6207'
+  - given-names: Rolf
+    family-names: Drechsler
+    email: drechsler@uni-bremen.de
+    affiliation: University of Bremen
+    orcid: 'https://orcid.org/0000-0002-9872-1740'
+identifiers:
+  - type: doi
+    value: 
+    description: >-
+      DIVIAC: Library of Input Data Aware Approximate Dividers with Partial Exact Minimization
+      DIVIAC is a library of approximate divider circuits, which were identified as Pareto-optimal for different input distributions. In DIVIAC we inspected three approximation schemes for restoring array divider circuits and identified possible improvements utilizing exact minimization versus heuristic minimization for basic block structures. Through their approximation scheme, formal verification was employed for the introduced approximation with the cecApprox methodology.
+repository-code: 'https://github.com/agra-uni-bremen/diviac'
+abstract: >-
+  DIVIAC: Library of Input Data Aware Approximate Dividers with Partial Exact Minimization
+license: MIT
