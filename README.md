@@ -10,6 +10,8 @@
 
 DIVIAC is a library of approximate divider circuits, which were identified as Pareto-optimal for different input distributions. In DIVIAC we inspected three approximation schemes for restoring array divider circuits and identified possible improvements utilizing exact minimization versus heuristic minimization for basic block structures. Through their approximation scheme, formal verification was employed for the introduced approximation with the cecApprox methodology.
 
+Please feel free to utilize this library in your research, or applications. More information can be found in our [publication](https://agra.informatik.uni-bremen.de/doc/konf/VLSID2026_CKJ.pdf).
+
 ## Project Structure
 
 The `DIVIAC` directory contains subdirectories structured as follows.
@@ -63,7 +65,7 @@ DIVIAC/
 
 ## How to cite
 
-Further details on DIVIAC are described in the following [publication](#tba):
+Further details on DIVIAC are described in the following [publication](https://agra.informatik.uni-bremen.de/doc/konf/VLSID2026_CKJ.pdf):
 
 ```
 @inproceedings{jha2026diviac,
