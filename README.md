@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./img/diviac_flow.png" alt="DIVIAC Flow" style="width:50%; height:auto;"/>
+  <img src="./img/diviac_flow.png" alt="DIVIAC Flow" style="width:80%; height:auto;"/>
 </p>
 
 DIVIAC is a library of approximate divider circuits, which were identified as Pareto-optimal for different input distributions. In DIVIAC we inspected three approximation schemes for restoring array divider circuits and identified possible improvements utilizing exact minimization versus heuristic minimization for basic block structures. Through their approximation scheme, formal verification was employed for the introduced approximation with the cecApprox methodology.
